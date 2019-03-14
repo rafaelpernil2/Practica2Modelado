@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -command  "C:\addCreationDateFiles\alskdj\BatchProgramming\DateUtil\dateutil.ps1 -operation %1 -extension %2 -path %3"
