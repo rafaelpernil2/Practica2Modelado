@@ -1,1 +1,0 @@
-Powershell.exe -executionpolicy remotesigned -command  ".\dateutil.ps1 -operation append -extension flac -path %1"
